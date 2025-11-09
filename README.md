@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Field Visualizer
+Real Time simulator that visualizes electric and magnetic field lines
+https://github.com/jjcarsello/field-visualizer.git
