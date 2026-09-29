@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 # Field Visualizer
 Real Time simulator that visualizes electric and magnetic field lines
 https://github.com/jjcarsello/field-visualizer.git
+
+# STM32 TCP RTOS LWIP
+Implemented FreeRTOS into an STM32 to support LWIP for ethernet
+https://github.com/jjcarsello/freeRTOS_TCP_practice.git
