@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is James Carsello, I am currently a sophomore in Computer Engineering at UIUC. I am passionate about physics, embedded software, and using computer science to solve real world problems!
+
 # Field Visualizer
 Real Time simulator that visualizes electric and magnetic field lines
 https://github.com/jjcarsello/field-visualizer.git
 
-# STM32 TCP RTOS LWIP
+# STM32 TCP RTOS LWIP (In Progress)
 Implemented FreeRTOS into an STM32 to support LWIP for ethernet
 https://github.com/jjcarsello/freeRTOS_TCP_practice.git
+
+# Easy Application
+Working on developing a Chrome Extension to automate applications through Workday which can be time consuming with flawed resume parsing.
