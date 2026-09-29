@@ -25,5 +25,6 @@ https://github.com/jjcarsello/field-visualizer.git
 Implemented FreeRTOS into an STM32 to support LWIP for ethernet
 https://github.com/jjcarsello/freeRTOS_TCP_practice.git
 
-# Easy Application
+# Easy Application (In progress)
 Working on developing a Chrome Extension to automate applications through Workday which can be time consuming with flawed resume parsing.
+https://github.com/jjcarsello/app-automation.git
